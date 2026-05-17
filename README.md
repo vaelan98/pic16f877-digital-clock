@@ -2,9 +2,8 @@
 
 > Embedded systems project — B.Sc. Mechatronics Engineering  
 > Universidad del Valle de Guatemala
-
 ---
-
+##
 ## 🇬🇧 English
 
 ### Overview
